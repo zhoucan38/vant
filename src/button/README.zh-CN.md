@@ -28,6 +28,8 @@ app.use(Button);
 <van-button type="danger">危险按钮</van-button>
 ```
 
+<demo-code>./demo/Button.vue</demo-code>
+
 ### 朴素按钮
 
 通过 `plain` 属性将按钮设置为朴素按钮，朴素按钮的文字为按钮颜色，背景为白色。
