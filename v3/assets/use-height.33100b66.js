@@ -1,0 +1,1 @@
+import{G as o}from"./use-translate.55dc92d8.js";import{D as a,N as i,q as r}from"./vue-libs.b1f02cae.js";const c=s=>{const e=a(),t=()=>{e.value=o(s).height};return i(()=>{r(t),setTimeout(t,100)}),e};export{c as u};
